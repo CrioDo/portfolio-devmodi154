@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-devmodi154/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-devmodi154/static/js/main.29e23c2a.chunk.js",
+    "main.js.map": "/portfolio-devmodi154/static/js/main.29e23c2a.chunk.js.map",
+    "runtime-main.js": "/portfolio-devmodi154/static/js/runtime-main.51a76b38.js",
+    "runtime-main.js.map": "/portfolio-devmodi154/static/js/runtime-main.51a76b38.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-devmodi154/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.4e520347.chunk.js": "/portfolio-devmodi154/static/js/2.4e520347.chunk.js",
+    "static/js/2.4e520347.chunk.js.map": "/portfolio-devmodi154/static/js/2.4e520347.chunk.js.map",
+    "index.html": "/portfolio-devmodi154/index.html",
+    "precache-manifest.f9baa4f309b280bc163c20b871de44a8.js": "/portfolio-devmodi154/precache-manifest.f9baa4f309b280bc163c20b871de44a8.js",
+    "service-worker.js": "/portfolio-devmodi154/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-devmodi154/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-devmodi154/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.4e520347.chunk.js.LICENSE.txt": "/portfolio-devmodi154/static/js/2.4e520347.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-devmodi154/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-devmodi154/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51a76b38.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.4e520347.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.29e23c2a.chunk.js"
+  ]
+}
